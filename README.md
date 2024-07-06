@@ -1,2 +1,2 @@
-# affiliate.github.io
+# affiliate
 Affiliate marketing website
